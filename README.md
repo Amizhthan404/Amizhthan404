@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:amizhthan.a.404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/amizhthan-a-0083a1319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/amizhthan-a-0083a1319](https://www.linkedin.com/in/amizhthan-a-0083a1319/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://amizhthan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white"/></a>
   <a href="https://github.com/Amizhthan404"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Amizhthan404&style=flat-square&color=70A5FD&label=Profile+Views"/>
