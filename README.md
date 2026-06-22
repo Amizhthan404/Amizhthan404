@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amizhthan%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20%7C%20AI%20Builder%20%7C%20Chennai%2C%20TN&descAlignY=62&descSize=16)](https://amizhthan.netlify.app)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Java+%2B+Full+Stack+Developer;CSE+Student+%40+IFET+College;AI+Builder+%7C+Hackathon+Shipper;Open+to+Internships+%7C+Zoho+%7C+Freshworks)](https://github.com/Amizhthan404)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Java+%2B+Full+Stack+Developer;CSE+Student+%40+IFET+College;AI+Builder+%7C+Hackathon+Shipper;Open+to+Internships+%7C+%7C+Freshworks)](https://github.com/Amizhthan404)
 
 <p align="center">
   <a href="mailto:amizhthan.a.404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
