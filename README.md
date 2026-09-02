@@ -214,26 +214,6 @@ public class Amizhthan {
 
 ---
 
-## 📚 Currently Learning
-
-```text
-🌱 Spring Boot (Deep Dive)        ████████░░░░░░░   60%
-📐 System Design (LLD / HLD)      █████░░░░░░░░░░   35%
-⚔️  DSA – 30 Days Series           ████████░░░░░░░   55%
-🤖 n8n Workflow Automation        ██████████░░░░░   70%
-🎮 Unity (Indie Game Dev)         ███░░░░░░░░░░░░   20%
-```
-
----
-
-## ✍️ Fun Facts
-
-- 🥋 **Silambam practitioner** — traditional Tamil martial art
-- 📝 **Writes original Tamil poetry** in free time
-- 🎮 Obsessed with story-driven games like **Red Dead Redemption 2**
-- 🚴 Gyms + cycles to stay sharp
-- 🧠 Studies **psychology and human behaviour** alongside tech
-- 🇯🇵 Learning **Japanese** (Elementary level)
 
 ---
 
