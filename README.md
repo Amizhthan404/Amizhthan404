@@ -194,11 +194,8 @@ public class Amizhthan {
 | 📜 **Programming in Java** | NPTEL – IIT Backed |
 | 📜 **Getting Started with Artificial Intelligence** | Certified |
 | 📜 **GIT in Tamil** | Certified |
-| 🏛️ **Co-Secretary, CSE Dept.** | IFET College of Engineering (2024–Present) |
 | 🏗️ **Build & Develop Arduino** | Atal Incubation Centre |
 | 💻 **50+ Problems Solved** | HackerRank · GFG · LeetCode (Ongoing) |
-| 🔥 **30 Days DSA Series** | Active LinkedIn public series – Day 6+ and counting |
-
 </div>
 
 ---
