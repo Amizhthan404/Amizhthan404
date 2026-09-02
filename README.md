@@ -180,23 +180,6 @@ public class Amizhthan {
 
 ---
 
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| Achievement | Details |
-|:------------|:--------|
-| 🥈 **2nd Place** | CSI Hackathon – Sparkathon (FixMyCampus) |
-| 🌐 **Google Solution Challenge 2026** | Competed with Team POWER HOUSE (SportShield AI / FixMyCampus) |
-| ⚡ **HackIndia Spark 3** | Competed with Team POWER HOUSE |
-| 🌊 **HackWaves** | Competed with Team POWER HOUSE |
-| 📜 **Java Foundations Professional Certificate** | JetBrains Academy |
-| 📜 **Programming in Java** | NPTEL – IIT Backed |
-| 📜 **Getting Started with Artificial Intelligence** | Certified |
-| 📜 **GIT in Tamil** | Certified |
-| 🏗️ **Build & Develop Arduino** | Atal Incubation Centre |
-| 💻 **50+ Problems Solved** | HackerRank · GFG · LeetCode (Ongoing) |
-</div>
 
 ---
 
