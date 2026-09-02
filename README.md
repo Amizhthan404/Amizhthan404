@@ -25,7 +25,7 @@ public class Amizhthan {
     String location    = "Chennai, Tamil Nadu, India";
     String degree      = "B.E. Computer Science Engineering (2024–2028)";
     String college     = "IFET College of Engineering, Villupuram";
-    String role        = "Co-Secretary, CSE Dept.";
+    
 
     String[] stack = {
         "Java (Core, OOP, JDBC)", "JavaScript", "React", "Node.js",
@@ -33,16 +33,6 @@ public class Amizhthan {
         "Supabase", "Firebase", "Gemini API"
     };
 
-    String[] currentlyLearning = {
-        "Spring Boot (Deep Dive)", "System Design (LLD/HLD)",
-        "DSA – 30 Days Series", "n8n Workflow Automation", "Unity (Indie Game Dev)"
-    };
-
-    String[] hobbies = {
-        "Silambam (Traditional Tamil Martial Art)",
-        "Writing Tamil Poetry", "Gymming", "Cycling",
-        "Story-driven Games (RDR2)", "Psychology & Human Behaviour"
-    };
 
     String funFact = "Built an AI grievance system in 2 hrs at CSI Hackathon 🚀";
 
